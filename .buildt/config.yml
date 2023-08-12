@@ -1,8 +1,10 @@
 name: ethers-provider-flashbots-bundle
 id: fd25d738-1ce8-4797-994b-9af7d958343a
-language: TypeScript
 extensions:
   - .ts
   - .cts
   - .mts
   - .tsx
+languages:
+  - TypeScript
+  - TSX
